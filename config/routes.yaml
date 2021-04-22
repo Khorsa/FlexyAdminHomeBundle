@@ -1,0 +1,3 @@
+flexyadminhome_routes:
+  type: annotation
+  resource: '../src/Controller/'
